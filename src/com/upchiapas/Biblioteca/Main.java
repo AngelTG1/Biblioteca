@@ -4,6 +4,6 @@ import static com.upchiapas.Biblioteca.modelos.Biblioteca.*;
 
 public class Main {
     public static void main(String[] args){
-        registroLibro();
+        visualizarMenu();
     }
 }
